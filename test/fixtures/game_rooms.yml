@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  play1ID: 1
+  play2ID: 1
+  over: false
+
+two:
+  play1ID: 1
+  play2ID: 1
+  over: false
